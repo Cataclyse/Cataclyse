@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "login": "Cataclyse",
+  "seed": "#6A6C63",
+  "seedFromAvatar": true,
+  "scheme": "fidelity",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Cataclyse",
+    "subtitle": "I build reverse engineering and software protection tools.\nMost of my projects are private.",
+    "typing": true,
+    "avatarShape": "sunny",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "France"
+      },
+      {
+        "icon": "code",
+        "label": "Python · C++"
+      },
+      {
+        "icon": "language",
+        "label": "https://ctvm.wtf"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and Reverse Engineer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly python"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:github",
+            "label": "Github Desktop"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python 3.11.8"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "tiny-weather",
+      "echo-bot",
+      "dotfiles",
+      "pixel-garden"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/483948013547683861"
+      },
+      {
+        "icon": "brand:python",
+        "url": "https://www.python.org/downloads/release/python-3118/"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.gg/ctvm"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://cataclyse.xyz",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      },
+      {
+        "icon": "brand:discord",
+        "label": "My Discord",
+        "url": "https://discord.gg/pqx3XPzQfs",
+        "style": "filled"
+      }
+    ],
+    "card": true
+  }
+}
