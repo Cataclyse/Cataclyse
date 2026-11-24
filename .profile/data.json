@@ -1,37 +1,37 @@
 {
- "key": "c5d4bed",
+ "key": "ada8cf37",
  "stars": 8,
- "contributions": 129,
- "repos": 13,
+ "contributions": 130,
+ "repos": 14,
  "followers": 4,
  "languages": [
+  [
+   "Rust",
+   75963401
+  ],
   [
    "C++",
    19971509
   ],
   [
    "Python",
-   5643873
+   5753942
+  ],
+  [
+   "Swift",
+   634325
   ],
   [
    "JavaScript",
-   548693
+   620195
   ],
   [
-   "Rust",
-   223751
+   "Kotlin",
+   349673
   ],
   [
    "CSS",
    119638
-  ],
-  [
-   "HTML",
-   114622
-  ],
-  [
-   "Perl",
-   33179
   ]
  ],
  "days": [
@@ -118,9 +118,13 @@
    {
     "c": 0,
     "day": 23,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 24,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -128,7 +132,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 2
  },
  "pins": [
@@ -186,6 +190,15 @@
    "fork": false,
    "stars": 1,
    "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "ArticBuild",
+   "url": "https://github.com/Cataclyse/ArticBuild",
+   "text": "Artic's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
    "topics": []
   },
   {
