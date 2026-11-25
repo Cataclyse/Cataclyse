@@ -1,5 +1,5 @@
 {
- "key": "6280b178",
+ "key": "af73f371",
  "stars": 8,
  "contributions": 130,
  "repos": 14,
@@ -229,7 +229,7 @@
    "text": "A faster-updated fork of pycdc/decompyle++ focused on current Python bytecode support.",
    "fork": true,
    "stars": 0,
-   "language": "C++",
+   "language": "Python",
    "topics": []
   },
   {
